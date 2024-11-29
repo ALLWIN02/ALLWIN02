@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I’m a passionate and detail-oriented developer s
   - **E-commerce Website**  
     Developed a responsive e-commerce platform with product listings, cart functionality, and secure payment integration using PHP, MySQL, and JavaScript.  
 
+
 - 🌱 **Currently Learning**:  
    Advanced web design techniques, big data analysis, and machine learning.  
 
@@ -30,9 +31,11 @@ Welcome to my GitHub profile! I’m a passionate and detail-oriented developer s
 **Frameworks & Libraries**:  
 - Angular  
 - HTML5 & CSS3  
+- Bootstrap 
 
 **Database Management**:  
-- MySQL   
+- MySQL  
+   
 
 ---
 
